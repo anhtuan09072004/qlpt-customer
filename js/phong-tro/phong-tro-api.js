@@ -1,9 +1,8 @@
-const API = "https://tons-violin-catch-starts.trycloudflare.com/api/phong-tro";
-const HINH_ANH_API = "https://tons-violin-catch-starts.trycloudflare.com/api/hinh-anh";
-const IMAGE_BASE_URL = "https://tons-violin-catch-starts.trycloudflare.com";
-const KHU_VUC_API = "https://tons-violin-catch-starts.trycloudflare.com/api/khu-vuc";
-const LOAI_PHONG_API = "https://tons-violin-catch-starts.trycloudflare.com/api/loai-phong";
-
+const API = "https://nguyenanhtuan.taila7e632.ts.net/api/phong-tro";
+const HINH_ANH_API = "https://nguyenanhtuan.taila7e632.ts.net/api/hinh-anh";
+const IMAGE_BASE_URL = "https://nguyenanhtuan.taila7e632.ts.net";
+const KHU_VUC_API = "https://nguyenanhtuan.taila7e632.ts.net/api/khu-vuc";
+const LOAI_PHONG_API = "https://nguyenanhtuan.taila7e632.ts.net/api/loai-phong";
 
 async function loadPhong() {
     hienThiLoading();
