@@ -1,8 +1,8 @@
-const API = "https://dose-pair-phase-see.trycloudflare.com/api/phong-tro";
-const HINH_ANH_API = "https://dose-pair-phase-see.trycloudflare.com/api/hinh-anh";
-const IMAGE_BASE_URL = "https://dose-pair-phase-see.trycloudflare.com";
-const KHU_VUC_API = "https://dose-pair-phase-see.trycloudflare.com/api/khu-vuc";
-const LOAI_PHONG_API = "https://dose-pair-phase-see.trycloudflare.com/api/loai-phong";
+const API = "https://tons-violin-catch-starts.trycloudflare.com/api/phong-tro";
+const HINH_ANH_API = "https://tons-violin-catch-starts.trycloudflare.com/api/hinh-anh";
+const IMAGE_BASE_URL = "https://tons-violin-catch-starts.trycloudflare.com";
+const KHU_VUC_API = "https://tons-violin-catch-starts.trycloudflare.com/api/khu-vuc";
+const LOAI_PHONG_API = "https://tons-violin-catch-starts.trycloudflare.com/api/loai-phong";
 
 
 async function loadPhong() {
